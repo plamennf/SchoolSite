@@ -1,0 +1,61 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #111;
+}
+
+body {
+  background-color: darkgrey;
+}
+
+p {
+  font-size: large;
+}
+
+.pongimg {
+    margin-left: 5%;
+    margin-right: 10%;
+}
+
+.games {
+    margin-left: 45%;
+}
+
+.pongHeader {
+  margin-left: 20%;
+}
+
+.snakeHeader {
+  margin-left: 70%;
+  margin-top: -5%;
+}
+
+.pongParagraph {
+  margin-left: 5%;
+  width: 40%;
+}
+
+.snakeParagraph {
+  margin-left: 55%;
+  margin-top: -8%;
+  width: 40%;
+}

@@ -1,0 +1,58 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #111;
+}
+
+body {
+  background-color: darkgrey;
+}
+
+p {
+  font-size: large;
+}
+
+h1 {
+  padding-left: 0;
+  padding-right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.welcomeHeader {
+  margin-left: 35%;
+}
+
+.welcomeParagraph {
+  margin-left: 20%;
+}
+
+.navigationParagraph {
+  margin-left: 10%;
+}
+
+img {
+  margin-left: 23%;
+  width: 50%;
+  height: 50%;
+}
