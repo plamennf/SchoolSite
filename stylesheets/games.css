@@ -13,8 +13,8 @@ ul {
   li a {
     display: block;
     color: white;
-    text-align: center;
     padding: 14px 16px;
+    text-align: center;
     text-decoration: none;
   }
   
@@ -36,8 +36,14 @@ p {
     margin-right: 10%;
 }
 
+.snakeimg {
+  margin-left: 55%;
+  margin-top: -40%;
+  margin-bottom: 1.5%;
+}
+
 .games {
-    margin-left: 45%;
+  margin-left: 45%;
 }
 
 .pongHeader {
