@@ -57,11 +57,17 @@ p {
 
 .pongParagraph {
   margin-left: 5%;
+  margin-top: 2%;
   width: 40%;
 }
 
 .snakeParagraph {
   margin-left: 55%;
-  margin-top: -8%;
+  margin-top: -6%;
   width: 40%;
+}
+
+.pagewrapper {
+  width: 100%;
+  height: 100%;
 }
